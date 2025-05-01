@@ -6,3 +6,16 @@ theme:
     accent: indigo
 repo_url: https://github.com/epassaro/packaginglab
 repo_name: epassaro/packaginglab
+
+nav:
+  - Introduction: index.md
+  - Packaging Systems:
+      - AppImage: appimage.md
+      - Flatpak: flatpak.md
+      - conda-forge: conda-forge.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true

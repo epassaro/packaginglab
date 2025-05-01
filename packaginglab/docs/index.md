@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Overview
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**PackagingLab** is a personal project focused on experimenting with different software packaging and distribution formats.
 
-## Commands
+The goal is to explore the strengths, limitations, and workflows of tools such as Conda Forge, AppImage, Flatpak, and others—by packaging real software projects and documenting the process.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This site serves as a simple record of what I learn along the way, including:
 
-## Project layout
+- How to build and structure packages for each format
+- Common pitfalls and how to solve them
+- Comparisons between systems
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The project is not meant to provide tutorials, but rather to document experience, experimentation, and lessons learned.
