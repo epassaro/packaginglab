@@ -1,0 +1,8 @@
+site_name: Packaging Lab
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+repo_url: https://github.com/epassaro/packaginglab
+repo_name: epassaro/packaginglab
