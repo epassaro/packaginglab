@@ -1,4 +1,6 @@
-# Overview
+# Introduction
+
+![](./packaginglab.png)
 
 **PackagingLab** is a personal project focused on experimenting with different software packaging and distribution formats.
 
