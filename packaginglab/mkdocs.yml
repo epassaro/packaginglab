@@ -9,6 +9,8 @@ repo_name: epassaro/packaginglab
 
 nav:
   - Introduction: index.md
+  - Software Packages: 
+      - DS9: ds9.md
   - Packaging Systems:
       - AppImage: appimage.md
       - Flatpak: flatpak.md
