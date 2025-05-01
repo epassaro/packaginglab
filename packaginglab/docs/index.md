@@ -2,7 +2,7 @@
 
 **PackagingLab** is a personal project focused on experimenting with different software packaging and distribution formats.
 
-The goal is to explore the strengths, limitations, and workflows of tools such as Conda Forge, AppImage, Flatpak, and others—by packaging real software projects and documenting the process.
+The goal is to explore the strengths, limitations, and workflows of tools such as AppImage, Flatpak, conda-forge and others—by packaging real software projects and documenting the process.
 
 This site serves as a simple record of what I learn along the way, including:
 
